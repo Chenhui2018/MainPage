@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages of Alex Chen
 
-In this 'site', I will publish some _works_ and _learing_ _notes_ of **ML and CV**. If there will do any help for each watcher, I would be appreciated!
+In this `site`, I will publish some _works_ and _learing_ _notes_ of **ML and CV**. If there will do any help for each watcher, I would be appreciated!
 
 ![Image](Img/timg.jpg)
 
