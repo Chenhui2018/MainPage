@@ -4,6 +4,8 @@
 
 In this site, I will publish some works and learing notes of ML and CV. If there will do any help for each watcher, I would be appreciated!
 
+![Image](Img/timg.jpg)
+
 ```
 You can find more works about me in [works in cnblog](https://www.cnblogs.com/alexYuin/p/).
 ```
